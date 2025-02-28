@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there,I'm Cheih-Lun Yang! 👋
+## 🌟 About Me 
+ 🎓 CS Student at National Changhua University of Education | 💻 Tech Enthusiast | Glows.ai 1st Campus Ambassador
 
 <!--
 **DreamerForJay/DreamerForJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
