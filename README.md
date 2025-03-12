@@ -1,4 +1,4 @@
-## Hi there,I'm Cheih-Lun Yang! 👋
+## Hi there,I'm Chieh-Lun Yang! 👋
 ## 🌟 About Me 
  🎓 CS Student at National Changhua University of Education | 💻 Tech Enthusiast | Glows.ai 1st Campus Ambassador
 
