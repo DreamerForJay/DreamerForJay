@@ -4,8 +4,6 @@
   </a>
 </p>
 
-
-
 ## 🌟 About Me 
  🎓 CS Student at National Changhua University of Education | 💻 Tech Enthusiast | Glows.ai 1st Campus Ambassador
 
