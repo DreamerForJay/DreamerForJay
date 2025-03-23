@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&center=true&width=435&lines=Nice+to+meet+you!;Hi+there%2C+I'm+Chieh-Lun+Yang!+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
-<!-- markdownlint-enable MD033 -->
-
 ## 🌟 About Me 
  🎓 CS Student at National Changhua University of Education | 💻 Tech Enthusiast | Glows.ai 1st Campus Ambassador
 
