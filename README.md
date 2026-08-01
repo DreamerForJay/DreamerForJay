@@ -5,7 +5,7 @@
 </p>
 
 ## 🌟 About Me 
- 🎓 CS Student at National Changhua University of Education | IT Intern @ TPV | Glows.ai 1st Campus Ambassador | 💻 Tech Enthusiast
+ 🎓 CS Student at National Changhua University of Education | R&D Intern @ TMYTEK | Ex-IT Intern @ TPV | 104 Campus Ambassador | Glows.ai 1st Campus Ambassador | 💻 Tech Enthusiast
 
 <!--
 **DreamerForJay/DreamerForJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
