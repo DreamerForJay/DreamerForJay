@@ -16,8 +16,7 @@
 
 - 🎓 CS student exploring computer vision and applied AI
 - 💡 Curious about emerging technology and IT
-- Interests
-📷 攝影 · 🏃‍♂️ 跑步 · ⚾ 棒球 · 🏀 籃球 · ⛰️ 爬山／登山 · 🍜 拉麵
+- 🎯 **Interests:** Photography · Running · Baseball · Basketball · Hiking · Ramen
 
 ## 💼 Experience
 
