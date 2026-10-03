@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/space-tech-banner.png" width="100%" alt="Earth, stars, and a satellite representing curiosity about space and technology" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=168B91&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chieh-Lun+Yang!+%F0%9F%91%8B;Live+in+the+moment.+Stay+curious." alt="Hi there, I'm Chieh-Lun Yang! Live in the moment. Stay curious." />
   </a>
