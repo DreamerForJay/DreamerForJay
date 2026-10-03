@@ -12,22 +12,12 @@
   <a href="mailto:cl.yang04@gmail.com">Email</a>
 </p>
 
-<table>
-  <tr>
-    <td width="32%" align="center">
-      <img src="./assets/profile.jpg" width="220" alt="Portrait of Chieh-Lun Yang" />
-    </td>
-    <td width="68%">
-      <h3>✨ A little about me</h3>
-      🎓 CS student exploring computer vision and applied AI.<br /><br />
-      🚀 Dreaming about space and what lies beyond Earth.<br /><br />
-      💡 Always curious about emerging technology and IT.<br /><br />
-      📷 I enjoy photography and capturing everyday moments.<br /><br />
-      🏃 Running and sports keep me moving.<br /><br />
-      🍜 Always happy with a good bowl of ramen.
-    </td>
-  </tr>
-</table>
+## ✨ A little about me
+
+- 🎓 CS student exploring computer vision and applied AI
+- 🚀 Dreaming about space and what lies beyond Earth
+- 💡 Curious about emerging technology and IT
+- 📷 Photography · 🏃 Running & sports · 🍜 Ramen
 
 ## 💼 Experience
 
