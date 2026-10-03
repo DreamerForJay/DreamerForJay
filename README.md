@@ -15,7 +15,6 @@
 ## ✨ A little about me
 
 - 🎓 CS student exploring computer vision and applied AI
-- 🚀 Dreaming about space and what lies beyond Earth
 - 💡 Curious about emerging technology and IT
 - 📷 Photography · 🏃 Running & sports · 🍜 Ramen
 
@@ -23,4 +22,7 @@
 
 - **Industrial Technology Research Institute (ITRI)** — Research Intern · Oct. 2026–Present
 - **TMY Technology (TMYTEK)** — Research & Development Intern · Jul. 2026–Present
+- **Hon Hai Precision Industry** — Future Talent Program Member · Mar. 2026–Present
 - **TPV Technology** — IT / Software Validation Intern · Jul.–Aug. 2025
+- **104 Corporation** — Campus Ambassador · Jul. 2025–Jun. 2026
+- **Glows.ai** — Technical Campus Ambassador · Dec. 2024–Jun. 2025
