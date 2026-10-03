@@ -16,7 +16,7 @@
 
 - 🎓 CS student exploring computer vision and applied AI
 - 💡 Curious about emerging technology and IT
-- 📷 Photography · 🏃 Running & sports · 🍜 Ramen
+- 📷 Photography · 🏃 Running · ⚾ Baseball · 🏀 Basketball · 🥾 Hiking · 🍜 Ramen
 
 ## 💼 Experience
 
