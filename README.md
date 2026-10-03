@@ -19,7 +19,7 @@
 
 ### Interests
 
-📷 &nbsp;&nbsp; 🏃‍♂️ &nbsp;&nbsp; ⚾ &nbsp;&nbsp; 🏀 &nbsp;&nbsp; ⛰️ &nbsp;&nbsp; 🍜
+📷 攝影 · 🏃‍♂️ 跑步 · ⚾ 棒球 · 🏀 籃球 · ⛰️ 爬山／登山 · 🍜 拉麵
 
 ## 💼 Experience
 
