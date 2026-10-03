@@ -7,7 +7,8 @@
 <h2 align="center">Chieh-Lun Yang · 楊杰倫</h2>
 
 <p align="center">
-  CSIE @ NCUE · Research Intern @ ITRI<br />
+  CSIE @ NCUE · Research Intern @ ITRI<br /><br />
+  <em>Live in the moment. Stay curious.</em><br /><br />
   <a href="https://xn--zwq108c.tw/research/">Academic Profile</a> ·
   <a href="https://xn--zwq108c.tw/research/assets/Chieh-Lun-Yang-Resume.pdf">CV</a> ·
   <a href="https://www.linkedin.com/in/chieh-lun-yang/">LinkedIn</a> ·
