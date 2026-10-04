@@ -10,19 +10,3 @@
   <a href="https://xn--zwq108c.tw/research/assets/Chieh-Lun-Yang-Resume.pdf">CV</a> ·
   <a href="https://www.linkedin.com/in/chieh-lun-yang/">LinkedIn</a> ·
   <a href="mailto:cl.yang04@gmail.com">Email</a>
-</p>
-
-## ✨ A little about me
-
-- 🎓 CS student exploring computer vision and applied AI
-- 💡 Curious about emerging technology and IT
-- 🎯 **Interests:** Photography · Running · Baseball · Basketball · Hiking · Ramen
-
-## 💼 Experience
-
-- **Industrial Technology Research Institute (ITRI)** — Research Intern · Oct. 2026–Present
-- **TMY Technology (TMYTEK)** — Research & Development Intern · Jul. 2026–Present
-- **Hon Hai Precision Industry** — Future Talent Program Member · Mar. 2026–Present
-- **TPV Technology** — IT / Software Validation Intern · Jul.–Aug. 2025
-- **104 Corporation** — Campus Ambassador · Jul. 2025–Jun. 2026
-- **Glows.ai** — Technical Campus Ambassador · Dec. 2024–Jun. 2025
